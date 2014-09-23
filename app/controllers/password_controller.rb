@@ -1,4 +1,3 @@
-require 'pbkdf2'
 require 'openssl'
 class PasswordController < ApplicationController
 
